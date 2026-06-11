@@ -61,7 +61,7 @@ export default function About() {
                 <p className="font-serif text-xs tracking-widest uppercase text-emerald-900/50 mt-1">Rated by Clients</p>
               </div>
               <div>
-                <p className="font-script text-3xl md:text-4xl text-emerald-700">All<span className="text-gold-500"> ♥</span></p>
+                <p className="font-script text-3xl md:text-4xl text-emerald-700">All<span className="text-gold-500"> {'♥︎'}</span></p>
                 <p className="font-serif text-xs tracking-widest uppercase text-emerald-900/50 mt-1">Made with Love</p>
               </div>
             </div>
